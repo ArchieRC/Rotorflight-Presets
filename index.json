@@ -248,9 +248,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/etocii/setup/2.2/etocii-filters.txt",
+      "fullPath": "presets/ArchieRC/setup/2.2/ArchieRC_Smooth.txt",
       "hash": "70a40bcd5993b96af5332308baccb7aae315e8f317f6715494065901c8773fdd",
-      "title": "etocii's Filters",
+      "title": "ArchieRC Smooth",
       "firmware_version": [
         "4.5"
       ],
@@ -259,7 +259,7 @@
       "keywords": [
         "filters"
       ],
-      "author": "etocii",
+      "author": "ArchieRC",
       "force_options_review": true,
       "priority": 0
     }
